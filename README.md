@@ -1,2 +1,2 @@
 # JoyClient
-Skyblock QOL Mod. (Non-legit Base)
+Skyblock QOL Mod.
