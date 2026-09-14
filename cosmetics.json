@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "users": {
+    "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa": {
+      "nickname": "Joy",
+      "prefix": "[DEV]",
+      "nameColor": "#FF55FF"
+    }
+  }
+}
