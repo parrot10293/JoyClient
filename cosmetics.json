@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "users": {
     "29ce1e8a-ce7c-4e06-a18d-97ad10c07ec8": {
       "nickname": "keiNy4N",
@@ -15,6 +15,45 @@
           ]
         }
       }
+    },
+
+    "d54a5283-4d51-4033-bae9-b375677bc994": {
+      "nickname": "danmuzei",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#FF0000",
+            "#FF7F00",
+            "#FFFF00",
+            "#00FF00",
+            "#00BFFF",
+            "#4B0082",
+            "#FF00FF"
+          ]
+        }
+      }
+    },
+
+    "93137a4c-db7b-4731-8e9a-de4c0cfabcc8": {
+      "nickname": "black__pepper",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#FFF5F8",
+            "#FFE4EC",
+            "#FFC9DC",
+            "#FFADD0",
+            "#FF93C4"
+          ]
+        }
+      }
     }
   }
 }
+]
