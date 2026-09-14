@@ -1,10 +1,20 @@
 {
-  "version": 1,
+  "version": 2,
   "users": {
-    "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa": {
-      "nickname": "Joy",
-      "prefix": "[DEV]",
-      "nameColor": "#FF55FF"
+    "29ce1e8a-ce7c-4e06-a18d-97ad10c07ec8": {
+      "nickname": "keiNy4N",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#FFFFFF",
+            "#DFFFF7",
+            "#A8FFE9"
+          ]
+        }
+      }
     }
   }
 }
