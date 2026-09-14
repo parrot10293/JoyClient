@@ -44,12 +44,12 @@
         "bold": true,
         "gradient": {
           "enabled": true,
-         "colors": [
-           "#111111",
-           "#444444",
-           "#888888",
-           "#CCCCCC",
-           "#F5F5F5"
+          "colors": [
+            "#111111",
+            "#444444",
+            "#888888",
+            "#CCCCCC",
+            "#F5F5F5"
           ]
         }
       }
@@ -62,13 +62,27 @@
         "bold": true,
         "gradient": {
           "enabled": true,
-         "colors": [
-           "#A8FFE9",
-           "#B9FFD8",
-           "#C8FFBF",
-           "#D8FFA8",
-           "#E6FF8A"
-         ]
+          "colors": [
+            "#A8FFE9",
+            "#B9FFD8",
+            "#C8FFBF",
+            "#D8FFA8",
+            "#E6FF8A"
+          ]
+        }
+      }
+    },
+
+    "a34ae093-1ec7-42cf-aba0-4be2eaeb7df8": {
+      "nickname": "JOY",
+      "prefix": "",
+      "style": {
+        "bold": false,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#FF69B4"
+          ]
         }
       }
     }
