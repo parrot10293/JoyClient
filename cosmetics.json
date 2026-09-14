@@ -81,6 +81,7 @@
         "gradient": {
           "enabled": true,
           "colors": [
+            "#FF69B4",
             "#FF69B4"
           ]
         }
