@@ -38,18 +38,18 @@
     },
 
     "93137a4c-db7b-4731-8e9a-de4c0cfabcc8": {
-      "nickname": "nIgGeR__pEnNiS",
+      "nickname": "black__pepper",
       "prefix": "",
       "style": {
         "bold": true,
         "gradient": {
           "enabled": true,
-          "colors": [
-            "#FFF5F8",
-            "#FFE4EC",
-            "#FFC9DC",
-            "#FFADD0",
-            "#FF93C4"
+         "colors": [
+           "#111111",
+           "#444444",
+           "#888888",
+           "#CCCCCC",
+           "#F5F5F5"
           ]
         }
       }
