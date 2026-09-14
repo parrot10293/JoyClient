@@ -53,6 +53,24 @@
           ]
         }
       }
+    },
+    
+    "09c4ffa2-f5d6-427d-8017-16088c6f1739": {
+      "nickname": "Stalumni",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+         "colors": [
+           "#A8FFE9",
+           "#B9FFD8",
+           "#C8FFBF",
+           "#D8FFA8",
+           "#E6FF8A"
+         ]
+        }
+      }
     }
   }
 }
