@@ -21,27 +21,28 @@
     },
 
     "d54a5283-4d51-4033-bae9-b375677bc994": {
-      "nickname": "GAYmuzei",
+      "nickname": "danmuzei",
       "prefix": "",
       "style": {
         "bold": true,
         "gradient": {
           "enabled": true,
           "colors": [
-            "#FF0000",
-            "#FF7F00",
-            "#FFFF00",
-            "#00FF00",
-            "#00BFFF",
-            "#4B0082",
-            "#FF00FF"
+            "#F5FBFF",
+            "#9ADAFF",
+            "#6FC5ED",
+            "#D5F0FF",
+            "#79C9EF",
+            "#A8DFFF",
+            "#4FA9DC",
+            "#1F6AAE"
           ]
         }
       }
     },
 
     "93137a4c-db7b-4731-8e9a-de4c0cfabcc8": {
-      "nickname": "pEpPeR",
+      "nickname": "PepPer",
       "prefix": "",
       "style": {
         "bold": true,
