@@ -90,6 +90,26 @@
           ]
         }
       }
+    },
+
+    "6c61a053-bacd-4b5b-b704-133b62cacf2a": {
+      "nickname": "Lvua",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#FF4D4D",
+            "#FF9F43",
+            "#FFF200",
+            "#4DFF88",
+            "#4DD2FF",
+            "#8C5CFF",
+            "#FF4FD8"
+          ]
+        }
+      }
     }
   }
 }
