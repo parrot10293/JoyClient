@@ -110,6 +110,26 @@
           ]
         }
       }
+    },
+
+    "6e5595f5-d5a8-4d3c-86b7-9802dcc1a7e3": {
+      "nickname": "CatgirlNBSKD",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "colors": [
+              "#5B2EFF",
+              "#7B52FF",
+              "#A07BFF",
+              "#C5A8FF",
+              "#E3D6FF",
+              "#FFFFFF"
+          ]
+        }
+      }
     }
   }
 }
