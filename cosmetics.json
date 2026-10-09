@@ -120,13 +120,12 @@
         "gradient": {
           "enabled": true,
           "colors": [
-            "colors": [
-              "#5B2EFF",
-              "#7B52FF",
-              "#A07BFF",
-              "#C5A8FF",
-              "#E3D6FF",
-              "#FFFFFF"
+            "#5B2EFF",
+            "#7B52FF",
+            "#A07BFF",
+            "#C5A8FF",
+            "#E3D6FF",
+            "#FFFFFF"
           ]
         }
       }
