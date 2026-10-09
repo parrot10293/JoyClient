@@ -78,7 +78,7 @@
     },
 
     "a34ae093-1ec7-42cf-aba0-4be2eaeb7df8": {
-      "nickname": "JOY",
+      "nickname": "joy9985",
       "prefix": "",
       "style": {
         "bold": true,
@@ -126,6 +126,25 @@
             "#C5A8FF",
             "#E3D6FF",
             "#FFFFFF"
+          ]
+        }
+      }
+    },
+
+    "f755ccca-251e-4822-9d34-f6004dc7afdc": {
+      "nickname": "StartendGuri",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#FF8FCB",
+            "#FFB4DE",
+            "#B58CFF",
+            "#8A63E8",
+            "#59BFFF",
+            "#35A7FF"
           ]
         }
       }
