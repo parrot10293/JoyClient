@@ -148,6 +148,21 @@
           ]
         }
       }
+    },
+
+    "b17f43fd-c218-4d91-b6ca-6cff126d61c7": {
+      "nickname": "PIG",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#FF69B4",
+            "#FF69B3"
+          ]
+        }
+      }
     }
   }
 }
