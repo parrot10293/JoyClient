@@ -1,1 +1,15 @@
-
+{
+  "schemaVersion": 1,
+  "sound": {
+    "url": "https://raw.githubusercontent.com/parrot10293/JoyClient/main/remote/rng_sound.mp3",
+    "sha256": "bbd90724cc6743c998be1448d878eeb6bfea951903622fa2e6f45b83bb564b5c"
+  },
+  "drops": [],
+  "patterns": {
+    "SLAYER_RNG": [],
+    "DUNGEON_RNG": [],
+    "DUNGEON_CHEST_RNG": [],
+    "GENERAL_RNG": [],
+    "CUSTOM_RNG": []
+  }
+}
