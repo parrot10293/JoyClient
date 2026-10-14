@@ -17,6 +17,24 @@
       "name": "Toxic Arrow Poison",
       "types": ["SLAYER_RNG"],
       "enabled": true
+    },
+    {
+      "id": "tarantula_catalyst",
+      "name": "Tarantula Catalyst",
+      "types": ["SLAYER_RNG"],
+      "enabled": true
+    },
+    {
+      "id": "spider_catalyst",
+      "name": "Spider Catalyst",
+      "types": ["SLAYER_RNG"],
+      "enabled": true
+    },
+    {
+      "id": "tarantula_silk",
+      "name": "Tarantula Silk",
+      "types": ["SLAYER_RNG"],
+      "enabled": true
     }
   ],
   "patterns": {
