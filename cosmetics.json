@@ -163,6 +163,26 @@
           ]
         }
       }
+    },
+
+    "6d3c61e0-6124-408f-9942-18f40d83cf00": {
+      "nickname": "BaboSh1ro",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors":[
+            "#FF9FCB",
+            "#FFC1DD",
+            "#E9C5FF",
+            "#C2B7FF",
+            "#A9DFFF",
+            "#7ED8FF"
+          ]
+        }
+      }
     }
   }
 }
+            
